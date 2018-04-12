@@ -17,7 +17,7 @@ else()
   message(FATAL_ERROR "\n"
       "can't find protobuf_comm source directory ""${PROTOBUF_COMM_SRC_DIR}"
       "Check if git submodule has been initialized."
-      "See README in \"atwork_refbox_comm\"\n")
+      "See README in \"protobuf_comm\"\n")
 endif(EXISTS "${PROTOBUF_COMM_SRC_DIR}"
     AND IS_DIRECTORY "${PROTOBUF_COMM_SRC_DIR}")
 
