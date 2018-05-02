@@ -3,11 +3,10 @@
   <name>protobuf_comm</name>
   <version>0.0.1</version>
   <description>
-    protobuf_comm is the main library to communicate with the RoCKIn@Work Central Factory Hub (CFH). This package
-    provides protobuf_comm to the ROS build system, thus, simplifying its usage within the ROS ecosystem.
+    This package provides protobuf_comm to the ROS build system, thus, enabling its usage within the ROS ecosystem. The source files were copied from the Logistics League RefBox and adapted for use with the catkin build system.
   </description>
 
-  <maintainer email="alexander.moriarty@brsu.de">Alexander Moriarty</maintainer>
+  <maintainer email="florian.eith@web.de">Flroian Eith</maintainer>
 
   <license>GPLv2</license>
 
